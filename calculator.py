@@ -1,3 +1,7 @@
+from art import logo
+import os
+
+print(logo)
 
 #returns a list of the inputed first number, operation, and next number
 def input_num():
